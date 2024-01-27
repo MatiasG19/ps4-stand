@@ -1,7 +1,5 @@
-# Foldable phone stand
+# Playstation 4 Stand
 
-Foldable phone stand for watching content on the go.
+Playstation 4 stand to stabilize the playstation in vertical position.
 
-![front.png](./pictures/front.png)
-![back.png](./pictures/back.png)
-![frontWithPhone.png](./pictures/frontWithPhone.png)
+![PS4 stand](ps4-stand.png)
